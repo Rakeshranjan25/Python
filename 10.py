@@ -5,4 +5,4 @@ b=input("Enter the second number: ")
 
 c=a*b
 
-print("The value of the first number raised to the power of the second number is: ",c)
+print("The value of the first number raised to the power of the second number is: ", c)
